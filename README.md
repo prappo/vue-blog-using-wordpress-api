@@ -1,4 +1,4 @@
-# blog
+# Vue Js blog using Wordpress API
 
 ## Build Setup
 
