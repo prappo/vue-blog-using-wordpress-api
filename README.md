@@ -1,5 +1,7 @@
 # Vue Js blog using Wordpress API
 
+<img src="vue-js-blog-using-wordpress-api.gif">
+
 ## Build Setup
 
 ```bash
